@@ -1,0 +1,11 @@
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\bin\Debug\netcoreapp2.1\InterfaceExmple.deps.json
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\bin\Debug\netcoreapp2.1\InterfaceExmple.runtimeconfig.json
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\bin\Debug\netcoreapp2.1\InterfaceExmple.runtimeconfig.dev.json
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\bin\Debug\netcoreapp2.1\InterfaceExmple.dll
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\bin\Debug\netcoreapp2.1\InterfaceExmple.pdb
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\obj\Debug\netcoreapp2.1\InterfaceExmple.csprojAssemblyReference.cache
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\obj\Debug\netcoreapp2.1\InterfaceExmple.csproj.CoreCompileInputs.cache
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\obj\Debug\netcoreapp2.1\InterfaceExmple.AssemblyInfoInputs.cache
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\obj\Debug\netcoreapp2.1\InterfaceExmple.AssemblyInfo.cs
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\obj\Debug\netcoreapp2.1\InterfaceExmple.dll
+C:\Users\proam\source\repos\InterfaceExmple\InterfaceExmple\obj\Debug\netcoreapp2.1\InterfaceExmple.pdb
